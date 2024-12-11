@@ -27,7 +27,7 @@ Para rodar a aplicação na sua máquina local, siga estes passos:
 
 A aplicação estará disponível em `http://localhost:8080/healthcare/api`. 
 
-Os EndsPoints encontrassem no Swagger com suas respectivas descrições e funcionalidades. `http://localhost:8080/healthcare/api/swagger-ui/index.html`
+Os EndsPoints estão no Swagger com suas respectivas descrições e funcionalidades. `http://localhost:8080/healthcare/api/swagger-ui/index.html`
 
 # HealthCare API
 
