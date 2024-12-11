@@ -47,11 +47,11 @@ To run the application on your local machine, follow these steps:
 
 1. **Clone the Project**
 
- First, clone the Git repository to your local machine:
+   First, clone the Git repository to your local machine:
 
- ```
- git clone https://github.com/EduPacheco1/healthcare.git
- ```
+   ```
+   git clone https://github.com/EduPacheco1/healthcare.git
+   ```
 2. Run the Application
 
 ## How to Access the Endpoints
