@@ -35,11 +35,11 @@ This application is designed to **maintain a registry of health plan beneficiari
 
 ## Technologies Used
 
-**Java 21**: Programming language.
-**Spring Boot**: Framework for developing Java applications.
-**Spring Data JPA**: For managing data persistence.
-**PostgreSQL**: Relational database for development and testing.
-**Maven**: Build tool and dependency management.
+- **Java 21**: Programming language.
+- **Spring Boot**: Framework for developing Java applications.
+- **Spring Data JPA**: For managing data persistence.
+- **PostgreSQL**: Relational database for development and testing.
+- **Maven**: Build tool and dependency management.
 
 ## Instructions to Run the Application
 
